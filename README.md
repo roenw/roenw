@@ -5,5 +5,6 @@
 -->
 - 📚 I’m currently studying information security at ASU
 - 📫 How to reach me: roen@roen.us
+- 💻 Check out my website [here](https://roen.us)
 - 😄 Pronouns: he/him
 - 💬 I post some of my projects on GitHub, but some of my projects are private
