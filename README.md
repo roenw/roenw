@@ -8,4 +8,4 @@
 - 🌐 Check out my website [here](https://roen.us)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/roen/)
 - 😄 Pronouns: he/him
-- 💬 I only post my team projects on GitHub - all other code I write is on my [GitLab server](https://git.roen.us/)!
+- 💬 I only post my team projects on GitHub - all other code I write is on my [GitLab server](https://git.roen.us/rwainscoat/)!
